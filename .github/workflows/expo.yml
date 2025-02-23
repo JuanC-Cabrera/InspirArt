@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Run Expo doctor (verifies the project)
-        run: npx expo doctor
+        run: npx expo-doctor
 
       - name: Lint check (optional)
         run: npm run lint
