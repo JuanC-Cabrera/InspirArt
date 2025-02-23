@@ -1,13 +1,12 @@
 {
-  "name": "inspirart",
+  "name": "mysketchstory",
   "version": "0.1.2",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web",
-    "lint": "eslint ."
+    "web": "expo start --web"
   },
   "dependencies": {
     "@react-navigation/native": "^7.0.14",
@@ -23,13 +22,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
-    "@eslint/js": "^9.21.0",
     "@types/react": "~18.3.12",
-    "eslint": "^9.21.0",
-    "eslint-plugin-react": "^7.37.4",
-    "globals": "^16.0.0",
-    "typescript": "^5.3.3",
-    "typescript-eslint": "^8.24.1"
+    "typescript": "^5.3.3"
   },
   "private": true
 }

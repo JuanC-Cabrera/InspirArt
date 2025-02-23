@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "InspirArt",
-    "slug": "InspirArt",
+    "name": "MySketchStory",
+    "slug": "MySketchStory",
     "version": "0.1.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -13,7 +13,7 @@ interface Props {
 const Home: React.FC<Props> = ({ navigation }) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to InspirArt!</Text>
+      <Text style={styles.title}>Welcome to My SketchStory!</Text>
       <Button
         title="Go to Lessons"
         onPress={() => navigation.navigate("LessonList")}
